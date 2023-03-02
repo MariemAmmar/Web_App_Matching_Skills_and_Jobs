@@ -9,7 +9,7 @@ The main objective of this project is to demonstrate the entire process of an en
 The project involves a client who is an IT education institute, and they have approached us with a problem. The IT industry is constantly evolving, which makes it difficult for their students to understand which skills they need to acquire for a particular job. The students have several questions, such as whether they need to learn C++ to become a data scientist or if they can use JavaScript for data analytics. The client has requested us to develop a data-driven solution that will help their students understand the relationship between different jobs and technologies.
 
 ## Business Case and KPIs:
-the solution will have  a positive financial impact on these following:
+The solution will have  a positive financial impact on these following:
 
 **1)** Higher enrollment rate due to the higher certainty of students about their courses and learning strategies
 
