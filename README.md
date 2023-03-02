@@ -26,7 +26,7 @@ The solution will have  a positive financial impact on these following:
 
 We have chosen this data source [Stack Overflow Developers Survey](https://insights.stackoverflow.com/survey).This dataset has a global distribution and a high volume. It's inclusive, updated and well structured. 
 
-##The notebooks
+## The notebooks
 
 * 01_preprocess:This code preprocesses a survey dataset by replacing certain string values with numerical values and splitting answers that contain multiple selections. Specifically, the code reads a CSV file from a path specified in DATA_PATH, performs some preprocessing steps on the data, and saves the resulting Pandas DataFrame as a pickle file at a path specified in EXPORT_PATH.
 
@@ -54,7 +54,7 @@ Finally, the model's performance is evaluated using the classification_report fu
 
 The calculate_quality function is used to calculate the quality scores for the predictions made by the model. It takes as input the ground truth labels and predicted labels and a metric function (e.g., accuracy_score, f1_score) to compute the quality score for each job. The sort_values parameter determines whether to sort the scores by ascending order.
 
-05_predict : This code loads a dictionary of pre-trained models from a pickled file and uses them to predict the probability that a respondent from a survey belongs to a specific job role, given the respondent's reported skills. The model is based on one-hot-encoded features of the survey respondents' skills and job roles.
+* 05_predict : This code loads a dictionary of pre-trained models from a pickled file and uses them to predict the probability that a respondent from a survey belongs to a specific job role, given the respondent's reported skills. The model is based on one-hot-encoded features of the survey respondents' skills and job roles.
 
 The code also defines some variables and constants such as MODEL_DIR, MODEL_FILE, ROLE_COLS, TECH_COLS, and EXCLUDE_ROLES which are not used in this specific piece of code, but might be used in other parts of the code.
 
