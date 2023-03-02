@@ -1,7 +1,7 @@
 # Development Jobs & Skills Matching Web Application 
 
 
-The main objective of this project is to demonstrate the entire process of an end to end real project. The final output is an effective prediction of matching jobs given a skill set.We are going to develop a data-driven solution for students to answer some questions : Which skills do I need t learn for my future IT job ?, They mostly want to understand the relationships between the jobs and the technologies.
+The main objective of this project is to demonstrate the entire process of an end to end real project. The final output is an effective prediction of matching jobs given a skill set.We are going to develop a data-driven solution for students to answer some questions : Which skills do I need to learn for my future IT job ?, They mostly want to understand the relationships between the jobs and the technologies.
 
 
 ## Problem Statement:
