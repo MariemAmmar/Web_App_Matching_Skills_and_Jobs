@@ -10,6 +10,7 @@ The project involves a client who is an IT education institute, and they have ap
 
 ## Business Case and KPIs:
 the solution will have  a positive financial impact on these following:
+
 **1)** Higher enrollment rate due to the higher certainty of students about their courses and learning strategies
 
 **2)** Decrease in drop-out rate
