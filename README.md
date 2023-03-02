@@ -77,4 +77,4 @@ This is a Python script that defines a Dash app for a skills matching tool. The 
 This is how the user interface of our web applciation looks like, we selected specific skills related to Dta Sience, and fortunately, we obtained the expected result:
 ![user1](https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img%201.PNG)
 ![user2](https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img2.PNG)
-[user3](https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img3.PNG)
+![user3](https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img3.PNG)
