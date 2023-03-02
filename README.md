@@ -75,6 +75,6 @@ one_hot_encode(df: pd.DataFrame, columns): This function takes in a Pandas DataF
 This is a Python script that defines a Dash app for a skills matching tool. The app allows users to select skills they have, and then shows them a bar chart indicating the probability of matching with different job roles. The app loads a saved machine learning model for making predictions, and uses the Plotly library to create the bar chart. The app also includes some CSS styling using Bootstrap. The script defines various functions to handle user inputs and generate the chart, and then sets up the layout and callbacks for the app.
 
 This is how the user interface of our web applciation looks like, we selected specific skills related to Dta Sience, and fortunately, we obtained the expected result:
-(user1)[https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img%201.PNG]
-(user2)[https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img2.PNG]
-(user3)[https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img3.PNG]
+![user1](https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img%201.PNG)
+![user2](https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img2.PNG)
+[user3](https://raw.githubusercontent.com/MariemAmmar/Web_App_Matching_Skills_and_Jobs/main/Web_APP_Matching_Skills_and_Jobs/images/img3.PNG)
